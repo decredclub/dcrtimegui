@@ -5,12 +5,12 @@ import { useTranslation } from "react-i18next";
 
 const LangDropdown = ({className}) => {
     const { i18n } = useTranslation();
-    const allLangOptions = ["ENG", "PT", "zh"];
+    const allLangOptions = ["ENG", "PT", "中文"];
     const [selectedLang, setSelectedLang] = useState(localStorage.getItem("lang") || "ENG");
     useEffect(() => {
         if (selectedLang === "ENG") i18n.changeLanguage("en");
         if (selectedLang === "PT") i18n.changeLanguage("pt");
-        if (selectedLang === "AR") i18n.changeLanguage("zh");
+        if (selectedLang === "中文") i18n.changeLanguage("zh");
         localStorage.setItem("lang", selectedLang);
     }, [selectedLang, setSelectedLang, i18n]);
     const handleClickOption = (op) => setSelectedLang(op);
