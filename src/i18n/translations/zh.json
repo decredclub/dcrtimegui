@@ -10,6 +10,8 @@
   "nextAnchoring.tooltip": "每小时进行一次锚定，下一次将在 {{minsToHour}} 分钟后（{{date}}）。",
   "downloadProof.singular": "下载证明",
   "downloadProof.plural": "下载所有证明",
+  "downloadHash.singular": "下载哈希",
+  "downloadHash.plural": "下载哈希集合",
   "latestHashes.title": "最新哈希",
   "searchByHash.placeholder": "通过哈希搜索",
   "fileInput.verify.text": "将文件拖放至此处以验证",
