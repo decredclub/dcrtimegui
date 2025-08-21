@@ -51,5 +51,6 @@
     "clearList": "Clear List",
     "timeago.lastHour": "last hour",
     "timeago.hAgo": "{{hours}}h ago",
+    "timestampingStatus": "Timestamping status",
     "timeago.dAgo": "{{days}}d ago"
 }
