@@ -10,6 +10,8 @@
     "nextAnchoring.tooltip": "A ancoragem é feita de hora em hora e a póxima será feita em {{minsToHour}} minutos ({{date}})",
     "downloadProof.singular": "Download Prova",
     "downloadProof.plural": "Download Provas",
+    "downloadHash.singular": "Download Hash",
+    "downloadHash.plural": "Download Hashes",
     "latestHashes.title": "Últimas Hashes",
     "searchByHash.placeholder": "Busca por hash",
     "fileInput.verify.text": "Arraste e solte os arquivos que deseja verificar",
