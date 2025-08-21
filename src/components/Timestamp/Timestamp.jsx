@@ -170,7 +170,7 @@ const TimestampForm = ({handleFetchLast}) => {
             ) : null}
             {files.length > 0 ? (
                 <>
-                    <h3 className={styles.singleLineHeading}>Timestamping status</h3>
+                  <h3 className={styles.singleLineHeading}>{t("timestampingStatus")}</h3>
                     <HashConfList hashes={files} checked={checked} handleCheckboxClick={handleCheckboxClick} />
                 </>
             ) : null}
