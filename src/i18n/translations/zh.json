@@ -17,6 +17,7 @@
   "verify.manually.placeholder": "在此输入或粘贴一个32字节哈希",
   "verify.log": "验证日志",
   "verify.button": "通过哈希验证",
+  "hash.Status": "哈希状态",
   "hashView.details": "详细信息",
   "hashView.transaction": "交易",
   "hashView.goBack": "返回",
