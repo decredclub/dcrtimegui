@@ -19,6 +19,7 @@
     "verify.button": "Verificar por Hash",
     "hashView.details": "Detalhes",
     "hashView.transaction": "Transação",
+    "hash.Status": "Hash Status",
     "hashView.goBack": "Voltar",
     "hashView.timestamped": "Timestamped",
     "hashView.awaiting": "Esperando próximo período de ancoragem",
