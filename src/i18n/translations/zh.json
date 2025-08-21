@@ -51,5 +51,6 @@
   "clearList": "清空列表",
   "timeago.lastHour": "一小时前",
   "timeago.hAgo": "{{hours}} 小时前",
+  "timestampingStatus": "时间戳状态",
   "timeago.dAgo": "{{days}} 天前"
 }
